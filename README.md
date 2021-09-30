@@ -1,0 +1,3 @@
+# Diceroller
+
+First android app
